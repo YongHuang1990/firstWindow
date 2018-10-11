@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 1234 
 issue2
+=======
+5647
+issue3 fix
+>>>>>>> issue3
